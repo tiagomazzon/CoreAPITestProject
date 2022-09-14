@@ -1,2 +1,2 @@
 # CoreAPITestProject
-Experimenting with code, testing stuff, making samples, simple startup projects, etc
+Simple example of a Repository Pattern API Solution using secret manager.
