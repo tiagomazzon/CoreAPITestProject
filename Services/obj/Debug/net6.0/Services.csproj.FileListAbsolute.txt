@@ -1,0 +1,17 @@
+C:\Projetos\CoreAPITestProject\Services\bin\Debug\net6.0\Services.deps.json
+C:\Projetos\CoreAPITestProject\Services\bin\Debug\net6.0\Services.dll
+C:\Projetos\CoreAPITestProject\Services\bin\Debug\net6.0\Services.pdb
+C:\Projetos\CoreAPITestProject\Services\bin\Debug\net6.0\Data.dll
+C:\Projetos\CoreAPITestProject\Services\bin\Debug\net6.0\Domain.dll
+C:\Projetos\CoreAPITestProject\Services\bin\Debug\net6.0\Data.pdb
+C:\Projetos\CoreAPITestProject\Services\bin\Debug\net6.0\Domain.pdb
+C:\Projetos\CoreAPITestProject\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Projetos\CoreAPITestProject\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CoreAPITestProject\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Projetos\CoreAPITestProject\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Projetos\CoreAPITestProject\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Projetos\CoreAPITestProject\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Projetos\CoreAPITestProject\Services\obj\Debug\net6.0\Services.dll
+C:\Projetos\CoreAPITestProject\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Projetos\CoreAPITestProject\Services\obj\Debug\net6.0\Services.pdb
+C:\Projetos\CoreAPITestProject\Services\obj\Debug\net6.0\ref\Services.dll
