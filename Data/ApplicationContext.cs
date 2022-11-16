@@ -1,15 +1,10 @@
 ﻿using Data.Mapping;
 using Domain.Entities;
+
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
 using Npgsql;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Emit;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Data
 {
@@ -30,7 +25,7 @@ namespace Data
             var conStrBuilder = new NpgsqlConnectionStringBuilder(Configuration.GetConnectionString("WebApiDatabase"));
             conStrBuilder.Password = Configuration["WebApiDatabase:Password"];
             options.UseNpgsql(conStrBuilder.ConnectionString);
-            
+
             //options.EnableSensitiveDataLogging();
         }
 
