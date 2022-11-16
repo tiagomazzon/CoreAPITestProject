@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "utFobQFWSWBO43okkGgDtZJp0QGjVI/OrgCQi5dZKdKcH5XXPd3biPZolpxjM0Q3cE/UmYWV+9ZwrM6aLzCaqQ==",
+  "dgSpecHash": "rGUJX2q0dy44/n/3pTPsfbRl/sva3xI4nJL7XSFVPYnd9Cuu1SywnLYVL+hPalK+B7Rx9TkegpziQUk1NNL+qw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\CoreAPITestProject\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\tiago.mazzon\\Projetos\\CoreAPITestProject\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
